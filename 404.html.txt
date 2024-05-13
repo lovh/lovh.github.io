@@ -37,4 +37,3 @@
 <body>
 </body>
 </html>
-[출처] Blazor WebAssembly를 GitHub Pages에 게시하기|작성자 Bluehill
